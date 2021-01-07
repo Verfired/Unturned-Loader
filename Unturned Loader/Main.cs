@@ -25,7 +25,7 @@ namespace Unturned
 				string str = ".dll";
 				Console.WriteLine("!", Console.ForegroundColor = ConsoleColor.Green);
 				Console.WriteLine("!", Console.ForegroundColor = ConsoleColor.Green);
-				Console.WriteLine("Made by Zeus Plugins", Console.ForegroundColor = ConsoleColor.Green);
+				Console.WriteLine("", Console.ForegroundColor = ConsoleColor.Green);
 				
 				for (int i = 0; i < base.Configuration.Instance.Lisanslar.Count; i++)
 				{
