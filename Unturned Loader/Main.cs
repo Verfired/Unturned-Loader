@@ -43,7 +43,7 @@ namespace Unturned
 			}
 			else
 			{
-				Console.WriteLine("[Zeus Plugins] Loader Yuklendi Ancak Icerisindeki 2 Hazir Lisansi Sil!", Console.ForegroundColor = ConsoleColor.Cyan);
+				Console.WriteLine(" Loader Yuklendi Ancak Icerisindeki 2 Hazir Lisansi Sil!", Console.ForegroundColor = ConsoleColor.Cyan);
 			}
 		}
 
